@@ -18,7 +18,7 @@ public class HelloCrotroller {
 
     @RequestMapping
     public String Hello(){
-        return "HELLO WORLD";
+        return "HELLO WORLD 1234";
     }
 
     @RequestMapping("/info")
